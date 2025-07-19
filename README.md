@@ -1,4 +1,4 @@
 # apnaproject-demo
 This is my first Git Repository.
 <br>
-Author - Krishna Patidar (dict neemuch)
+Author - Krishna Patidar (Neemuch)
